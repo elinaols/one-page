@@ -12,7 +12,7 @@
     justify-content: left;
     align-items: center;
 }
-.container-text {
+.container-text { 
     margin: 100px;
     .heading-text {
         font-size: 1.8rem;
